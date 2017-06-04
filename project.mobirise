@@ -1,0 +1,329 @@
+{
+  "settings": {
+    "name": "TOURNOI ROLLAND GARROS 2017",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Montserrat",
+        "textFont": "Montserrat",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 8,
+    "versionPublish": "3.12.1",
+    "favicon": "@PROJECT_PATH@/assets/images/roland-garros-128x127.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".mbr-section-title P": {
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "60px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/Pkw-OBmEdIs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "<p><span style=\"line-height: 1.1;\"><a href=\"https://goo.gl/pVzjsC\" target=\"_blank\">JOUEZ</a></span><br></p><br><p><a href=\"https://goo.gl/pVzjsC\" target=\"_blank\">VIBREZ </a></p><br><p><a href=\"https://goo.gl/pVzjsC\" target=\"_blank\">GAGNEZ</a><span style=\"font-size: 3.125rem; line-height: 1.1;\"><a href=\"https://goo.gl/pVzjsC\" target=\"_blank\"></a></span><br><br></p>",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "20px"
+            },
+            ".mbr-author-name": {
+              "color": "#ccc"
+            },
+            ".card-block": {
+              "font-size": "20px"
+            },
+            ".card-block P": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials3",
+          "testimonial": [
+            {
+              "text": "<p>&nbsp;REMPLISSEZ <a href=\"index.html#extHeader10-5\">LE FORMULAIRE</a>&nbsp;AFIN DE NOUS COMMUNIQUER LE JOUEUR DU JOUR QUE VOUS DONNEZ GAGNANT</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><span style=\"line-height: 2;\">SI VOTRE PRONOSTIC SE RÉALISE T VOTRE JOUEUR GAGNE EFFECTIVEMENT LE MATCH DU JOUR POUR LEQUEL VOUS AVEZ PARIÉ</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>NOUS VOUS DOUBLERONS AUTOMATIQUEMENT VOTRE BALANCE EN CASH. VIBREZ AU RHYTME DE LA COMPÉTITON!&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p>NOUS COMPTABILISERONT TOUTES VOS MISES ENTRE LE 4 JUIN ET LA FINALE.</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>CEUX AYANT ACCUMULÉ LE PLUS DE MISES SE PARTAGERONT&nbsp;<span style=\"line-height: 2;\">75'000 €</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            },
+            {
+              "text": "<p>CONSULTEZ LE <a href=\"index.html#extTable1-6\">CLASSEMENT INTERMEDIAIRE ICI</a></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "John Smith",
+              "authorBio": "Developer"
+            }
+          ],
+          "_anchor": "testimonials3-1",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "count": "6",
+            "showImages": false,
+            "showName": false,
+            "showBio": false,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1090.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false
+          },
+          "title": "LE TOURNOI DE TENNIS DE ROLAND GARROS<br>COMMENT ÇA MARCHE",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-7",
+          "_params": {
+            "labelsColor": "#cccccc",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1389.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "REMPLISSEZ LE FORMULAIRE DE JEU",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "support@vegasfiesta.com",
+            "alerts": {
+              "success": "A VOUS DE JOUER !"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "NOM*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "EMAIL*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "IDENTIFIANT*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "QUEL JOUEUR DONNEZ VOUS GAGNANT POUR LE PROCHAIN MATCH?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PARIEZ!</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n\n<iframe src=\"https://WWW.rolandgarros.com/fr_FR/draws/index.html\" height=\"1000\" width=\"2000\" style=\"border:none;\"></iframe>\n\n\n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-4"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-6",
+          "_params": {
+            "rowСount": 4,
+            "colCount": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#fff",
+            "showTitle": true,
+            "showSearch": true
+          },
+          "title": "CLASSEMENT INTERMEDIAIRE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Name</th><th>Rang</th></tr></thead><tbody><tr><td>jeannaschmal</td><td>1</td></tr><tr><td>caren_rials</td><td>2</td></tr><tr><td>leon2rogol</td><td>3</td></tr><tr><td>shala_B</td><td>4</td></tr></tbody>"
+        }
+      ]
+    }
+  }
+}
