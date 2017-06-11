@@ -701,19 +701,6 @@ h6,
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 60px;
 }
-#testimonials3-1 .mbr-section-title {
-  color: #f3c649;
-  font-size: 20px;
-}
-#testimonials3-1 .mbr-author-name {
-  color: #ccc;
-}
-#testimonials3-1 .card-block {
-  font-size: 20px;
-}
-#testimonials3-1 .card-block P {
-  font-size: 12px;
-}
 #form1-7 .form-control-label {
   color: #cccccc;
 }
@@ -726,4 +713,17 @@ h6,
 }
 #custom-html-4 .my-image {
   width: 100%;
+}
+#testimonials3-1 .mbr-section-title {
+  color: #f3c649;
+  font-size: 20px;
+}
+#testimonials3-1 .mbr-author-name {
+  color: #ccc;
+}
+#testimonials3-1 .card-block {
+  font-size: 20px;
+}
+#testimonials3-1 .card-block P {
+  font-size: 12px;
 }

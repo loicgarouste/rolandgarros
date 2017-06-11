@@ -85,6 +85,81 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#cccccc"
+            },
+            ".mbr-section-title": {
+              "color": "#f3c649",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "form1-7",
+          "_params": {
+            "labelsColor": "#cccccc",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1389.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showSubTitle": false
+          },
+          "title": "REMPLISSEZ LE FORMULAIRE DE JEU",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "form": {
+            "action": "loic@vegasfiesta.com",
+            "alerts": {
+              "success": "A VOUS DE JOUER !"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "NOM*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "EMAIL*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "IDENTIFIANT*"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "QUEL JOUEUR DONNEZ VOUS GAGNANT POUR LE PROCHAIN MATCH?"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PARIEZ!</a>"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "\n\n\n\n<iframe src=\"https://WWW.rolandgarros.com/fr_FR/draws/index.html\" height=\"1000\" width=\"2000\" style=\"border:none;\"></iframe>\n\n\n\n",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-4"
+        },
+        {
           "_inherit": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
@@ -212,116 +287,6 @@
           },
           "title": "LE TOURNOI DE TENNIS DE ROLAND GARROS<br>COMMENT ÇA MARCHE",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#cccccc"
-            },
-            ".mbr-section-title": {
-              "color": "#f3c649",
-              "font-size": "20px"
-            }
-          },
-          "_anchor": "form1-7",
-          "_params": {
-            "labelsColor": "#cccccc",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1389.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#ffffff",
-            "showTitle": true,
-            "showSubTitle": false
-          },
-          "title": "REMPLISSEZ LE FORMULAIRE DE JEU",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "form": {
-            "action": "loic@vegasfiesta.com",
-            "alerts": {
-              "success": "A VOUS DE JOUER !"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": true,
-                "customTitle": "NOM*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "EMAIL*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": true,
-                "customTitle": "IDENTIFIANT*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "QUEL JOUEUR DONNEZ VOUS GAGNANT POUR LE PROCHAIN MATCH?"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">PARIEZ!</a>"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "\n\n\n\n<iframe src=\"https://WWW.rolandgarros.com/fr_FR/draws/index.html\" height=\"1000\" width=\"2000\" style=\"border:none;\"></iframe>\n\n\n\n",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_anchor": "custom-html-4"
-        },
-        {
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-6",
-          "_params": {
-            "rowСount": 4,
-            "colCount": "2",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.4,
-            "overlayColor": "#fff",
-            "showTitle": true,
-            "showSearch": true
-          },
-          "title": "CLASSEMENT INTERMEDIAIRE",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Name</th><th>Rang</th></tr></thead><tbody><tr><td>jeannaschmal</td><td>1</td></tr><tr><td>caren_rials</td><td>2</td></tr><tr><td>leon2rogol</td><td>3</td></tr><tr><td>shala_B</td><td>4</td></tr></tbody>"
         }
       ]
     }
